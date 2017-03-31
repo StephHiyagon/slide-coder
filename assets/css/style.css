@@ -1,0 +1,32 @@
+*{
+  font-family: Verdana;
+}
+
+header{
+  text-align: center;
+  margin:15px;
+}
+
+section{
+  text-align: center;
+}
+
+textarea{
+  margin:5px;
+  border-top-width: 10px;
+  border-right-width: 1em;
+  border-bottom-width: thick;
+  border-left-width: thin;
+  border-color: #ffa50a;
+}
+
+input[type="submit"]{
+  background-color: #ffa50a;
+  margin-top: 10px;
+  cursor:pointer;
+  border: 1px solid #ffa50a;
+}
+
+input[type="text"]{
+  border: 1px solid #ffa50a;
+}
