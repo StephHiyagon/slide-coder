@@ -30,3 +30,24 @@ input[type="submit"]{
 input[type="text"]{
   border: 1px solid #ffa50a;
 }
+
+#css_title{
+  text-align: left;
+  border:1px solid #ffa50a;
+  width: 25%;
+}
+
+#css_post{
+  text-align: justify;
+  border:1px solid black;
+  background-color: #ffa50a;
+  color:white;
+  width: 50%;
+  height: 30%;
+  padding: 1px;
+  margin: 2px;
+}
+
+h3{
+  margin: 1px;
+}
